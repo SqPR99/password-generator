@@ -1,5 +1,6 @@
 # password-generator
 This website was made in order to generate a random password with confirm prompts through javascript 
+<br>
 link to the website itself: https://sqpr99.github.io/password-generator/
 
 ## First Prompt
