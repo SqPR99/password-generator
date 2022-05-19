@@ -17,6 +17,6 @@ The next four popups you will recieve will ask you what characters you would lik
 ![firefox_Pv9CoPCdIe](https://user-images.githubusercontent.com/105133644/169381310-ca588ef9-57a4-493e-960e-4e6110d3d717.png)
 ![firefox_ivD3XWLy5c](https://user-images.githubusercontent.com/105133644/169381327-6ea4e0e2-5ab6-476b-a8af-b7e97cf36259.png)
 
-##Generator
+## Generator
 After choosing what type of characters you would like in your password, your password will then be randomly generated in the box in the middle.
 ![firefox_RTy9sIGHJP](https://user-images.githubusercontent.com/105133644/169381684-dabcd6de-6884-4e54-a377-25050042e02c.png)
